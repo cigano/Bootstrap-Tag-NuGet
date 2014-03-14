@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>bootstrap-tag</id>
+    <version>1.0.0</version>
+    <authors>Cigano Morrison Mendez</authors>
+    <owners>Cigano Morrison Mendez</owners>
+    <projectUrl>https://github.com/fdeschenes/bootstrap-tag</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A javascript plugin for Twitter Bootstrap 2.x that makes it easy to create simple, beautiful tag inputs.</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2014 Francois Deschenes</copyright>
+    <tags>bootstrap tags javascript</tags>
+  </metadata>
+</package>

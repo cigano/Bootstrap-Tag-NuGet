@@ -1,6 +1,12 @@
-# Tags for Twitter Bootstrap 2.x
+# NuGet Port of Tags for Twitter Bootstrap 2.x
 
-bootstrap-tag is a javascript plugin that makes it easy to create simple, beautiful tag inputs with the help of [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
+**bootstrap-tag** is a javascript plugin that makes it easy to create simple, beautiful tag inputs with the help of [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
+
+## Installation
+
+In your Package Manager Console, use the following command:
+
+    Install-Package bootstrap-tag
 
 ## Usage
 
